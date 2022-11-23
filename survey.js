@@ -3,14 +3,6 @@ const rl = readline.createInterface({
   input: process.stdin, 
   output: process.stdout
 });
-let answer1 = '';
-let answer2 = '';
-let answer3 = '';
-let answer4 = '';
-let answer5 = '';
-let answer6 = '';
-let answer7 = '';
-
 //rl.setPrompt
 //rl.prompt
 //rl.close --- closes the application
